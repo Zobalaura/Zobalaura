@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zobalaura
-- 👀 I’m interested in ...data science
-- 🌱 I’m currently learning ...data science toolbox
+- 👀 I’m interested in ...data science and software engineering
+- 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
